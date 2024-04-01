@@ -5,7 +5,6 @@ import ApodLayout from './ApodLayout'
 const apodInfo = 'https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY'
 
 
-
 function App() {
   const [photo, setPhoto] = useState()
 
